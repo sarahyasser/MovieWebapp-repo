@@ -1,5 +1,9 @@
-# Movies-webapp repo using Angular/React/Vue
+# Movies-webapp repo using Angular, React and Vue
 
+## Powerpoint 
+
+   In this repository, you will find a PowerPoint presentation that provides an in-depth comparison between three popular JavaScript frameworks/libraries: React, Angular, and Vue.
+   
 ## Installation
 
 **Install Node.js and npm:**
